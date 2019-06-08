@@ -1,0 +1,24 @@
+04/17/2019
+Change Log: EFS-100-041619 to EFS-100-041719
+
+-Impeller face: In leu of vane fillets, vertex of impeller eye must be brought down to run parallel to internal flat of pump chamber (on case 2)
+
+-Impeller Length: Impeller lenghth extended both at step and coupler end to match machined dimensions
+
+-Case 1: Impeller bore on front face opened up ~0.02 in for rotational clearance (Ref: Handbook of Turbomachinery - Earl Logan)
+
+-Bearing Collar: Impeller step extrusion extended by 0.0268 in to account for location adjustment of impeller inside pump chamber
+
+-Seal retaining ring: added to assembly
+
+-Oring added to assembly (placeholder; not meaasured to rubber rings in shop)
+
+-Materials: Material selections have been added for components that perviously hadn't been assigned
+
+- Shoulder bolts: Accurate length shoulder bolts added (w/ nuts)
+
+- Bearing plate: Counter bore added to account for roller and collar overhang
+
+- Diffuser Flange: Switched bolting pattern to 4 instead of 6
+
+- External References: All external references have been unlinked to avoid assembly issues
