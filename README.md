@@ -4,6 +4,8 @@
 
 The goal of this project was to develop a cryogenic compatible, flight-ready electric feed system (EFS) for Portland State Aerospace Society for use in their upcoming Launch Vehicle 4 (LV4). This project has made significant advancements in the design and testing of a cryogenic compatible pump. However, more work must be completed before the EFS will be deemed flight-ready. Improvements were made upon previous EFS team’s designs, resulting in a more compact, higher powered, and robust pump system. Crucially, the new design has been tested and confirmed to be cryogenic compatible. The final EFS design has successfully shown PSAS that the pump design is capable of pumping cryogenic fluids without seizing and is able to maintain single-phase fluid flow at the system outlet under specified conditions.
 
+![alt text](https://github.com/psas/electric-feed-system-flight-ready/blob/master/Media/Cryo_Test.png)
+
 
 
 ## EFS Onboarding
